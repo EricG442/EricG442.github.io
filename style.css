@@ -1,0 +1,55 @@
+body{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    color: #333;
+    background: #eee;
+}
+
+header{
+    background: #eee;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+}
+
+h2{
+    font-size: 24px;
+    text-align: right;
+}
+
+a{
+    color: royalblue;
+}
+
+p{
+    line-height: 1.5;
+}
+
+.cont{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#biopic{
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+}
+
+a:hover{
+    color: #d21034
+}
+
+a:active{
+    color: royalblue;
+}
+
